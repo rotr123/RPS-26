@@ -1,1 +1,3 @@
-# RPS-26
+# Vaje RPS
+
+avtor: Grega Roter
