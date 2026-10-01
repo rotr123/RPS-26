@@ -5,4 +5,4 @@ klic=requests.get(url)
 
 klicJSON=klic.json()
 
-print(klicJSON["latitude"])
+print(klicJSON["current"])
