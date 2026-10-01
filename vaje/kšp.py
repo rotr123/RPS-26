@@ -53,6 +53,9 @@ def izdelajStat(zmage: list) -> list:
             zmage2 += 1
         else:
             izen += 1
+
+
+            
             
     return [izen, zmage1, zmage2] 
        
